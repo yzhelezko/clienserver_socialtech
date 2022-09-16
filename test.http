@@ -1,0 +1,14 @@
+
+
+
+### index
+GET http://localhost:8000/
+content-type: application/json
+
+{}
+
+### metrics
+GET http://localhost:8000/metrics
+content-type: application/json
+
+{}
